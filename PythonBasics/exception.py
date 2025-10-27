@@ -84,9 +84,9 @@ print("="*60)
 # Example 1: Try-else-finally
 print("\n1. TRY-ELSE-FINALLY:")
 try:
-    result = 10 / 2
-except ZeroDivisionError:
-    print("Error: Division by zero")
+    result = 10 / 0
+except ZeroDivisionError as e:
+    print("Error: Division by zero hereeeee",e)
 else:
     print(f"No error occurred! Result: {result}")
 finally:
