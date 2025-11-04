@@ -1,0 +1,41 @@
+OrderID,CustomerName,Product,Category,Quantity,Price,OrderDate,Shipped,Country,TotalAmount,OrderYear,OrderMonth,OrderDay,OrderDayOfWeek,OrderQuarter,CustomerOrderCount,CustomerAvgOrderValue
+1001,John Smith,Laptop,Electronics,1,1200.0,2024-06-01,True,USA,1200.0,2024,6,1,5,2,1,1200.0
+1002,Sarah Lee,Headphones,Electronics,2,150.0,2024-06-03,False,Canada,300.0,2024,6,3,0,2,1,300.0
+1003,Ali Khan,Office Chair,Furniture,1,300.0,2024-06-04,True,UAE,300.0,2024,6,4,1,2,1,300.0
+1004,Alice Wong,Desk Lamp,Furniture,3,45.0,2024-06-05,True,Singapore,135.0,2024,6,5,2,2,1,135.0
+1005,Carlos Mendez,Keyboard,Electronics,2,80.0,2024-06-06,False,Mexico,160.0,2024,6,6,3,2,1,160.0
+1006,Nora Ibrahim,Notebook,Stationery,5,5.0,2024-06-07,True,UAE,25.0,2024,6,7,4,2,1,25.0
+1007,Emily Davis,Standing Desk,Furniture,1,450.0,2024-06-08,True,UK,450.0,2024,6,8,5,2,1,450.0
+1008,James Park,Monitor,Electronics,2,220.0,2024-06-09,False,South Korea,440.0,2024,6,9,6,2,1,440.0
+1009,Maria Rossi,Pen,Stationery,10,1.5,2024-06-10,True,Italy,15.0,2024,6,10,0,2,1,15.0
+1010,Takeshi Nakamura,Mouse,Electronics,1,35.0,2024-06-11,True,Japan,35.0,2024,6,11,1,2,1,35.0
+1011,Sophie Martin,Webcam,Electronics,1,85.0,2024-06-12,True,France,85.0,2024,6,12,2,2,1,85.0
+1012,Raj Patel,File Cabinet,Furniture,2,180.0,2024-06-13,False,India,360.0,2024,6,13,3,2,1,360.0
+1013,Emma Wilson,Stapler,Stationery,3,12.0,2024-06-14,True,Australia,36.0,2024,6,14,4,2,1,36.0
+1014,Diego Rodriguez,USB Drive,Electronics,5,25.0,2024-06-15,True,Spain,125.0,2024,6,15,5,2,1,125.0
+1015,Lisa Chen,Bookshelf,Furniture,1,280.0,2024-06-16,False,China,280.0,2024,6,16,6,2,1,280.0
+1016,Ahmed Hassan,Printer Paper,Stationery,20,8.0,2024-06-17,True,Egypt,160.0,2024,6,17,0,2,1,160.0
+1017,Anna Kowalski,Wireless Mouse,Electronics,2,45.0,2024-06-18,True,Poland,90.0,2024,6,18,1,2,1,90.0
+1018,Michael Brown,Desk Organizer,Furniture,1,65.0,2024-06-19,False,USA,65.0,2024,6,19,2,2,1,65.0
+1019,Yuki Tanaka,Calculator,Electronics,1,15.0,2024-06-20,True,Japan,15.0,2024,6,20,3,2,1,15.0
+1020,Fatima Al-Zahra,Whiteboard,Furniture,1,120.0,2024-06-21,True,Saudi Arabia,120.0,2024,6,21,4,2,1,120.0
+1021,David Thompson,Highlighters,Stationery,8,3.5,2024-06-22,False,Canada,28.0,2024,6,22,5,2,1,28.0
+1022,Isabella Silva,Bluetooth Speaker,Electronics,1,95.0,2024-06-23,True,Brazil,95.0,2024,6,23,6,2,1,95.0
+1023,Oliver Schmidt,Office Plant,Furniture,2,35.0,2024-06-24,True,Germany,70.0,2024,6,24,0,2,1,70.0
+1024,Zara Ahmed,Sticky Notes,Stationery,15,4.0,2024-06-25,False,Pakistan,60.0,2024,6,25,1,2,1,60.0
+1025,Lucas Anderson,Tablet Stand,Electronics,1,28.0,2024-06-26,True,Sweden,28.0,2024,6,26,2,2,1,28.0
+1026,Chloe Dubois,Paper Shredder,Electronics,1,75.0,2024-06-27,True,France,75.0,2024,6,27,3,2,1,75.0
+1027,Miguel Torres,Desk Chair Mat,Furniture,1,22.0,2024-06-28,False,Argentina,22.0,2024,6,28,4,2,1,22.0
+1028,Nina Petrov,Binder Clips,Stationery,12,2.5,2024-06-29,True,Russia,30.0,2024,6,29,5,2,1,30.0
+1029,Seo-yeon Kim,Wireless Keyboard,Electronics,1,110.0,2024-06-30,True,South Korea,110.0,2024,6,30,6,2,1,110.0
+1030,Giuseppe Romano,Desk Calendar,Furniture,1,18.0,2024-07-01,False,Italy,18.0,2024,7,1,0,3,1,18.0
+1031,Amira Hassan,USB Hub,Electronics,1,32.0,2024-07-02,True,Morocco,32.0,2024,7,2,1,3,1,32.0
+1032,Thomas Müller,Document Scanner,Electronics,1,140.0,2024-07-03,True,Germany,140.0,2024,7,3,2,3,1,140.0
+1033,Sofia Rodriguez,Desk Drawer Organizer,Furniture,1,42.0,2024-07-04,False,Colombia,42.0,2024,7,4,3,3,1,42.0
+1034,Alex Johnson,Index Cards,Stationery,100,0.8,2024-07-05,True,USA,80.0,2024,7,5,4,3,1,80.0
+1035,Yuki Yamamoto,Monitor Stand,Electronics,1,55.0,2024-07-06,True,Japan,55.0,2024,7,6,5,3,1,55.0
+1036,Emma Thompson,Desk Lamp with USB,Furniture,1,68.0,2024-07-07,False,UK,68.0,2024,7,7,6,3,1,68.0
+1037,Carlos Santos,Wireless Earbuds,Electronics,1,125.0,2024-07-08,True,Portugal,125.0,2024,7,8,0,3,1,125.0
+1038,Leila Mansouri,Desk Pad,Furniture,1,28.0,2024-07-09,True,Iran,28.0,2024,7,9,1,3,1,28.0
+1039,Daniel Kim,Power Strip,Electronics,2,18.0,2024-07-10,False,South Korea,36.0,2024,7,10,2,3,1,36.0
+1040,Anna Ivanova,Desk Clock,Furniture,1,35.0,2024-07-11,True,Ukraine,35.0,2024,7,11,3,3,1,35.0
