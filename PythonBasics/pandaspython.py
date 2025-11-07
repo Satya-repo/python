@@ -23,6 +23,7 @@
 import pandas as pd
 import numpy as np
 from datetime import datetime
+import matplotlib.pyplot as plt
 
 print("="*80)
 print("PANDAS DATA CLEANING & FEATURE ENGINEERING - REAL WORLD TUTORIAL")
